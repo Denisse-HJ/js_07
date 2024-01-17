@@ -45,3 +45,22 @@ body {
     background-color: #fb8332;
     box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
+.card-container {
+    margin: 5px;
+    text-align: center;
+}
+
+.card-container h2 {
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.card-container p {
+    color: #666;
+}
+
+.card-container img {
+    max-width: 100%;
+
+    height: auto;
+}
